@@ -1,0 +1,9 @@
+crewai[all]
+prefect
+streamlit
+supabase
+python-dotenv
+torch
+transformers
+accelerate
+bitsandbytes
